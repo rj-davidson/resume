@@ -1,0 +1,9 @@
+% Personal information — copy this to personal.tex and fill in your details.
+
+\newcommand{\myName}{Your Name}
+\newcommand{\myLocation}{City, State}
+\newcommand{\myEmail}{you@example.com}
+\newcommand{\myPhone}{123-456-7890}
+\newcommand{\myLinkedInUser}{github-username}
+\newcommand{\myGitHubUser}{linkedin-username}
+\newcommand{\myCompanyOne}{Company Name}
